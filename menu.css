@@ -1,0 +1,10 @@
+.menu{width: 800px; height: 150px; margin: 50px auto;}
+.menu ul{margin: 0; padding: 0; list-style: none;}
+.menu ul li{float: left;}
+.menu ul li a{display: block; width: 150px; background: #F2F3F4; color: black; font: bold 20px tahoma;
+	  text-decoration: none; padding: 9px 0; border: 2px solid #F2F3F4; text-align: center;}
+/*hover - uzerine geldikde rengi deyisir*/ 
+.menu ul li a:hover{background: grey; color: white;list-style: none;}
+
+.container{width: 500px; height: 200px;  margin-top: -100px; margin-left: 370px;}
+.table{border: 1px solid black;}

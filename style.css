@@ -1,0 +1,311 @@
+/*En basdaki ad, soyad ve sosial saytlar olan hisse.*/
+.header{
+	width: 1000px;
+	height: 120px;
+	margin: -10px auto;
+	font-size: 25px; 
+	color: black; 
+	font-family: poppins;
+}
+.headername{
+	width: 200px;
+	height: 50px;
+	font-size: 25px; 
+	color: black; 
+	font-family: poppins;
+	padding: 40px 0px 0px 0px;
+}
+.headersosial{
+	width: 150px;
+	height: 30px;
+	margin: -50px 20px 20px 850px;
+	text-decoration: none;
+	list-style: none;
+
+}
+.box{
+	width: 1000px ;
+	height:3250px;
+	background: white;
+	margin: -10px auto;
+	box-shadow: 15px 15px 15px grey;
+	border-radius: 10px;
+}
+/*Sekil olan hisse*/
+.imgbox{
+	width: 1000px;
+	height: 250px;
+	background: #2E86C1;
+	border-top-right-radius: 10px;
+	border-top-left-radius: 10px ;
+}
+.img{
+	width: 200px;
+	height: 200px;
+	border: 8px solid white;
+	margin-top: -200px;
+	margin-left: 50px;
+}
+.namepro{
+	width: 400px;
+	height: 200px;
+	margin: -180px 0 0 400px; 
+	color: white; 
+	font-family: arial;
+}
+
+
+/*AboutMe olan hisse*/
+.about{
+	width: 1000px;
+	height: 250px;
+	background: white;
+	margin-top: -36px;
+	margin-left: 0px;
+	
+}
+.aboutme{
+	width: 520px;
+	height: 150px;
+	margin-top: -200px;
+	margin-left: 50px;
+	
+}
+.aepa{
+	width: 350px;
+	height: 150px;
+	margin-top: -170px;
+	margin-left: 650px;
+}
+.aepainfo{
+	width: 250px;
+	height: 150px;
+	margin-top: -170px;
+	margin-left: 750px;
+}
+.line1{
+	width: 1000px;
+	height: 2px;
+	background: #BDC3C7;
+
+}
+
+/*PROSKILLS olan hisse*/
+.proskills{
+	width: 400px;
+	height: 50px;
+	margin-top: 30px;
+	margin-left: 50px;
+}
+.html{
+	width: 50px;
+	height: 20px;
+	margin-top: 30px;
+	margin-left: 50px;
+
+}
+.css{
+	width: 50px;
+	height: 20px;
+	margin-top: 70px;
+	margin-left: 50px;
+}
+.javascript{
+	width: 50px;
+	height: 20px;
+	margin-top: 70px;
+	margin-left: 50px;
+}
+.adobephotoshop{
+	width: 150px;
+	height: 20px;
+	margin-top: -200px;
+	margin-left: 500px;
+}
+.sketch{
+	width: 50px;
+	height: 20px;
+	margin-top: 70px;
+	margin-left: 500px;
+}
+.adobexd{
+	width: 100px;
+	height: 20px;
+	margin-top: 70px;
+	margin-left: 500px;
+}
+
+/*Work Experience olan hisse*/
+
+.workexperience{
+	width: 350px;
+	height: 50px;
+	margin-top: 30px;
+	margin-left: 50px;
+}
+.whead1{
+	width: 850px;
+	height: 200px;
+	border: 1px solid grey;
+	border-radius: 5px;
+	border-left: 3px solid blue;
+	margin-top: 30px;
+	margin-left: 50px;
+}
+.whead2{
+	width: 850px;
+	height: 200px;
+	border: 1px solid grey;
+	border-radius: 5px;
+	border-left: 3px solid blue;
+	margin-top: -30px;
+	margin-left: 25px;
+}
+.whead3{
+	width: 850px;
+	height: 200px;
+	border: 1px solid grey;
+	border-radius: 5px;
+	border-left: 3px solid blue;
+	margin-top: -30px;
+	margin-left: 25px;
+
+}
+/*Education olan hisse*/
+
+.education{
+	width: 300px;
+	height: 50px;
+	margin-top: 30px;
+	margin-left: 50px;
+}
+.ehead1{
+	width: 850px;
+	height: 200px;
+	border: 1px solid grey;
+	border-radius: 5px;
+	border-left: 3px solid green;
+	margin-top: 30px;
+	margin-left: 50px;
+}
+
+
+.ehead2{
+	width: 850px;
+	height: 200px;
+	border: 1px solid grey;
+	border-radius: 5px;
+	border-left: 3px solid green;
+	margin-top: -30px;
+	margin-left: 25px;
+}
+.ehead3{
+	width: 850px;
+	height: 200px;
+	border: 1px solid grey;
+	border-radius: 5px;
+	border-left: 3px solid green;
+	margin-top: -30px;
+	margin-left: 25px;
+
+}
+/*Contact olan hisse*/
+
+.contact{
+	width: 300px;
+	height: 50px;
+	margin-top: 30px;
+	margin-left: 50px;
+}
+
+.yourname{
+	width: 250px;
+	height: 25px;
+	border: 2px solid #D7DBDD;
+	background: #F2F3F4;
+	margin-top: -300px;
+	margin-left: 220px;
+	border-radius: 5px;
+	padding: 8px;
+
+}
+.youremail{
+	width: 250px;
+	height: 25px;
+	border: 2px solid #D7DBDD;
+	background: #F2F3F4;
+	margin-top: -45px;
+	margin-left: 520px;
+	border-radius: 5px;
+	padding: 8px;
+}
+.yourmessage{
+	width: 555px;
+	height: 100px;
+	border: 2px solid #D7DBDD;
+	background: #F2F3F4;
+	margin-top: 15px;
+	margin-left: 218px;
+	border-radius: 5px;
+	padding: 8px;
+}
+.send{
+	width: 70px;
+	height: 30px;
+	background: #2E86C1;
+	margin-left: 218px;
+	margin-top: 30px;
+	border-radius: 50px;
+	padding: 10px 10px 10px 10px;
+}
+.ape{
+	width: 300px;
+	height: 250px;
+	margin-left: 820px;
+	margin-top: -285px;
+}
+
+/*En asagi hisse*/
+
+.down{
+	width: 250px;
+	height: 100px;
+	margin: 200px auto;
+}
+.headersosialdown{
+	width: 150px;
+	height: 30px;
+	margin-top: 0px;
+	margin-left: 35px ;
+}
+.rightresume{
+	width: 250px;
+	height: 20px;
+	margin-left: -20px;
+}
+.designed{
+	width: 500px;
+	height: 20px;
+	margin-left: -80px;
+
+}
+
+/*Login*/
+
+.logbox{
+	width: 200px;
+	height:350px;
+	border: 5px solid white;
+	background: white;
+	margin: 100px auto;
+}
+.img5{
+	width: 100px;
+	height:110px;
+	margin: 10px auto;
+}
+.login{
+	width: 50px ;
+	height: 1px ;
+	margin: 1px auto;
+}
